@@ -108,6 +108,10 @@ The cleaned dataset was analyzed with Sales Amount as the primary metric. Key di
 ***6. Channel Analysis***
 
   - Compared Online vs Retail sales performance.
+##
+
+## Report
+<img width="1342" height="747" alt="image" src="https://github.com/user-attachments/assets/3161af24-bdff-4fd7-82b7-070022152d68" />
 
 ##
 ## Conclusion
